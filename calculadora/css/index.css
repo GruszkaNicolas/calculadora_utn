@@ -1,0 +1,11 @@
+
+body{
+    background-image: url(https://conceptodefinicion.de/wp-content/uploads/2021/03/numero.jpg);
+}
+h1{
+    font-family: 'Anek Latin', sans-serif;
+    -ms-grid-column-align: center;
+    margin-top: 15px;
+    font-size: 250%
+
+}
